@@ -1,4 +1,4 @@
-﻿string[] array1 = new string[6] {":)", "-23", "Russia", "x", "C#", "FinalDZ"};
+﻿string[] array1 = new string[7] {":)", "-23", "Russia", "x", "C#", "FinalDZ", "Computer"};
 string[] array2 = new string[array1.Length];
 void GetArray(string[] array1, string[] array2)
 {
